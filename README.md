@@ -6,7 +6,7 @@ You can walk around a room with boxes painted annoying colors - the player (blue
 ![image](https://github.com/user-attachments/assets/8e898674-80f8-44fa-81b7-4703b10e4557)
 
 # Name
-UMC (short for Uniwersalna Maszyna Cyfrowa) was an early line of computers produced by the Polish company Elrwo in the 1960's.
+UMC (short for Uniwersalna Maszyna Cyfrowa) was an early line of computers produced by the Wrocławskie Zakłady Elektroniczne "Elwro" in the 1960's.
 
 # Build instructions
 Don't
